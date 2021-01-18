@@ -4,4 +4,6 @@ Freddy Vega tiene 32 años y nació en Colombia
 
 Mañana nos enfocaremos en su vida laboral
 
+Master 1
+
 Soy una cuenta demo para validar funcionamiento de Github.. agregame al repo!
